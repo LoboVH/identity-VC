@@ -1,4 +1,4 @@
-# identity-VC
+# Solana-identity-VC
 ## verifiable credential example
 
 => Register user credential on Solana blockchain.
